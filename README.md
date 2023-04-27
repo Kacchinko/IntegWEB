@@ -1,2 +1,2 @@
 # IntegWEB
-Para tener registro del trabajo de diseño web integrado - nuestro proyecto.
+No sean timidos, apunten aca la hora, fecha y el cambio que han puesto.
